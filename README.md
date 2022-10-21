@@ -12,4 +12,5 @@
 
 
 To run test
+1. anchor build && anchor deploy
 1. anchor test
